@@ -1,4 +1,4 @@
-# flash-card
+# flash-card-App
 
 
 Flash Card Project
